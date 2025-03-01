@@ -62,4 +62,4 @@ def split_pdf_chunks():
 
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
